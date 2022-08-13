@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @AnthemPython
 - 👀 I’m interested in Cyber Security, ML and AI
-- 🌱 I’m currently working on an AI Project just like Jarvis which
-- 💞️ I’m looking to collaborate on the Jarvis Project
+- 🌱 I build defensive and offensive tools for securing systems and networks. 
+- I am also interested in automation
+- I am also looking forward in contributing to any open source projects. 
 
 
 <!---
