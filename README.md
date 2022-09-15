@@ -22,14 +22,12 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠 Skills
 
-[![Python](https://img.shields.io/badge/Python-0?style=for-the-badge&logo=Python&logoColor=white)
-[![Node](https://img.shields.io/badge/Node-0A66C2?style=for-the-badge&logo=Node&logoColor=white)
-[![Bash](https://img.shields.io/badge/Bash-1DA1F2?style=for-the-badge&logo=Bash&logoColor=white)
-[![Github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=Github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0?style=for-the-badge&logo=Python&logoColor=white)
+![Node](https://img.shields.io/badge/Node-0A66C2?style=for-the-badge&logo=Node&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-1DA1F2?style=for-the-badge&logo=Bash&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-1DA1F2?style=for-the-badge&logo=Linux&logoColor=white)
 
+# GitHub Statistics
 
-## Acknowledgements
-
- - [Awesome Readme Templates](https://awesomeopensource.com/project/elangosundar/awesome-README-templates)
- - [Awesome README](https://github.com/matiassingers/awesome-readme)
- -
+![](https://raw.githubusercontent.com/AnthemPython/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/AnthemPython/github-stats/master/generated/languages.svg)
